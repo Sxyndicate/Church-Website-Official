@@ -1,23 +1,3 @@
-==================================================================================================
-
-DESCRIPTION:
-
-HESED is a free website template designed for churches. A clean and modern church website template 
-that has all the essential features, pages and elements a church needs. It is easy and 
-straightforward to use, users of any level will find it easy to utilize. Also, the template's code 
-is well commented and organized making it easy to customize. If you are looking for a free 
-template that would help you kick-start your process of creating an effective and great-looking 
-church website, Hesed is the right template for you.
-
-==================================================================================================
-
-
-LICENSE:
-
-This free resource is provided by StyleShout.com and is free to use in 
-both personal and commercial projects.
-
-
 Rights:
 -------
 
